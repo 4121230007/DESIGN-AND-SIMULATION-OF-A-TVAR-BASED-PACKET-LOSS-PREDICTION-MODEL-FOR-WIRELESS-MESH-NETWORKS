@@ -3,5 +3,6 @@
 All graphs are found in individual graphs folders
 
 Relevant code can be found in files with extension .ipynb
+TVAR Actual and Predicted Loss json has _prediction in its name
 
 csv files are also provided
