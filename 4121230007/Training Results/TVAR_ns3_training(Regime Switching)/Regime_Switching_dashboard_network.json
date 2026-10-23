@@ -1,0 +1,70 @@
+{
+  "simulation": "regime_switching_aodv",
+  "protocol": "AODV",
+  "traffic_type": "regime_switching",
+  "total_windows": 360,
+  "window_size_s": 5,
+  "train_ratio": 0.7,
+  "threshold_kbps": 1700,
+  "nodes": {
+    "0": {
+      "route_id": "route_0_to_9",
+      "mean_loss": 0.4557,
+      "std_loss": 0.4444
+    },
+    "1": {
+      "route_id": "route_1_to_9",
+      "mean_loss": 0.3886,
+      "std_loss": 0.3883
+    },
+    "2": {
+      "route_id": "route_2_to_9",
+      "mean_loss": 0.4543,
+      "std_loss": 0.4425
+    },
+    "3": {
+      "route_id": "route_3_to_9",
+      "mean_loss": 0.4993,
+      "std_loss": 0.4814
+    },
+    "4": {
+      "route_id": "route_4_to_9",
+      "mean_loss": 0.2887,
+      "std_loss": 0.2927
+    },
+    "5": {
+      "route_id": "route_5_to_9",
+      "mean_loss": 0.1235,
+      "std_loss": 0.1583
+    },
+    "6": {
+      "route_id": "route_6_to_9",
+      "mean_loss": 0.3431,
+      "std_loss": 0.3477
+    },
+    "7": {
+      "route_id": "route_7_to_9",
+      "mean_loss": 0.4986,
+      "std_loss": 0.4734
+    },
+    "8": {
+      "route_id": "route_8_to_9",
+      "mean_loss": 0.1816,
+      "std_loss": 0.1934
+    }
+  },
+  "model_summary": {
+    "tvar": {
+      "mean_test_rmse": 0.1388,
+      "mean_test_mae": 0.0742
+    },
+    "arima": {
+      "mean_test_rmse": 0.1798,
+      "mean_test_mae": 0.1067
+    },
+    "lstm": {
+      "mean_test_rmse": 0.1386,
+      "mean_test_mae": 0.0
+    }
+  }
+}

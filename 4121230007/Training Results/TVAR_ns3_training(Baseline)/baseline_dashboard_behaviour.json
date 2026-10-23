@@ -1,0 +1,2855 @@
+{
+  "route_0_to_9": [
+    {
+      "window": 69,
+      "predicted_loss": 0.3974,
+      "actual_loss": 0.5847,
+      "error": 0.1873,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 70,
+      "predicted_loss": 0.448,
+      "actual_loss": 0.7213,
+      "error": 0.2733,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 71,
+      "predicted_loss": 0.5703,
+      "actual_loss": 0.837,
+      "error": 0.2667,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 72,
+      "predicted_loss": 0.6692,
+      "actual_loss": 0.3852,
+      "error": 0.284,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 73,
+      "predicted_loss": 0.3971,
+      "actual_loss": 0.612,
+      "error": 0.2149,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 74,
+      "predicted_loss": 0.4643,
+      "actual_loss": 0.377,
+      "error": 0.0872,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 75,
+      "predicted_loss": 0.3521,
+      "actual_loss": 0.3552,
+      "error": 0.0031,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 76,
+      "predicted_loss": 0.2965,
+      "actual_loss": 0.1803,
+      "error": 0.1162,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 77,
+      "predicted_loss": 0.1794,
+      "actual_loss": 0.2131,
+      "error": 0.0337,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 78,
+      "predicted_loss": 0.1698,
+      "actual_loss": 0.6639,
+      "error": 0.4941,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 79,
+      "predicted_loss": 0.4676,
+      "actual_loss": 0.5082,
+      "error": 0.0406,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 80,
+      "predicted_loss": 0.4462,
+      "actual_loss": 0.9281,
+      "error": 0.4819,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 81,
+      "predicted_loss": 0.6907,
+      "actual_loss": 0.7864,
+      "error": 0.0957,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 82,
+      "predicted_loss": 0.6729,
+      "actual_loss": 0.9317,
+      "error": 0.2588,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 83,
+      "predicted_loss": 0.7421,
+      "actual_loss": 0.9567,
+      "error": 0.2146,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 84,
+      "predicted_loss": 0.7839,
+      "actual_loss": 0.8567,
+      "error": 0.0727,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 85,
+      "predicted_loss": 0.7235,
+      "actual_loss": 0.975,
+      "error": 0.2515,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 86,
+      "predicted_loss": 0.7825,
+      "actual_loss": 0.9386,
+      "error": 0.1561,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 87,
+      "predicted_loss": 0.7798,
+      "actual_loss": 0.8679,
+      "error": 0.0881,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 88,
+      "predicted_loss": 0.7276,
+      "actual_loss": 0.5836,
+      "error": 0.144,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 89,
+      "predicted_loss": 0.531,
+      "actual_loss": 0.9568,
+      "error": 0.4258,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 90,
+      "predicted_loss": 0.7226,
+      "actual_loss": 0.942,
+      "error": 0.2194,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 91,
+      "predicted_loss": 0.7788,
+      "actual_loss": 0.7608,
+      "error": 0.018,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 92,
+      "predicted_loss": 0.6589,
+      "actual_loss": 0.9249,
+      "error": 0.2661,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 93,
+      "predicted_loss": 0.7332,
+      "actual_loss": 0.9772,
+      "error": 0.244,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 94,
+      "predicted_loss": 0.796,
+      "actual_loss": 0.9829,
+      "error": 0.1869,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 95,
+      "predicted_loss": 0.8089,
+      "actual_loss": 0.9591,
+      "error": 0.1502,
+      "status": "Critical",
+      "action": "Trigger route rediscovery",
+      "colour": "#7f1d1d"
+    },
+    {
+      "window": 96,
+      "predicted_loss": 0.7945,
+      "actual_loss": 0.9283,
+      "error": 0.1338,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 97,
+      "predicted_loss": 0.7704,
+      "actual_loss": 0.9431,
+      "error": 0.1727,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 98,
+      "predicted_loss": 0.7745,
+      "actual_loss": 0.9386,
+      "error": 0.1641,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    }
+  ],
+  "route_1_to_9": [
+    {
+      "window": 69,
+      "predicted_loss": 0.2239,
+      "actual_loss": 0.661,
+      "error": 0.4372,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 70,
+      "predicted_loss": 0.462,
+      "actual_loss": 0.1953,
+      "error": 0.2667,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 71,
+      "predicted_loss": 0.2142,
+      "actual_loss": 0.565,
+      "error": 0.3508,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 72,
+      "predicted_loss": 0.3879,
+      "actual_loss": 0.4341,
+      "error": 0.0463,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 73,
+      "predicted_loss": 0.354,
+      "actual_loss": 0.4633,
+      "error": 0.1092,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 74,
+      "predicted_loss": 0.355,
+      "actual_loss": 0.0,
+      "error": 0.355,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 75,
+      "predicted_loss": 0.0626,
+      "actual_loss": 0.1582,
+      "error": 0.0956,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 76,
+      "predicted_loss": 0.1012,
+      "actual_loss": 0.1953,
+      "error": 0.0941,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 77,
+      "predicted_loss": 0.1463,
+      "actual_loss": 0.1299,
+      "error": 0.0164,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 78,
+      "predicted_loss": 0.1095,
+      "actual_loss": 0.3828,
+      "error": 0.2733,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 79,
+      "predicted_loss": 0.2625,
+      "actual_loss": 0.4746,
+      "error": 0.2121,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 80,
+      "predicted_loss": 0.3553,
+      "actual_loss": 0.7516,
+      "error": 0.3963,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 81,
+      "predicted_loss": 0.545,
+      "actual_loss": 0.6376,
+      "error": 0.0927,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 82,
+      "predicted_loss": 0.5095,
+      "actual_loss": 0.9838,
+      "error": 0.4743,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 83,
+      "predicted_loss": 0.7155,
+      "actual_loss": 0.9059,
+      "error": 0.1903,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 84,
+      "predicted_loss": 0.7124,
+      "actual_loss": 0.6417,
+      "error": 0.0707,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 85,
+      "predicted_loss": 0.5329,
+      "actual_loss": 0.9153,
+      "error": 0.3824,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 86,
+      "predicted_loss": 0.6723,
+      "actual_loss": 0.9773,
+      "error": 0.305,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 87,
+      "predicted_loss": 0.7489,
+      "actual_loss": 0.8541,
+      "error": 0.1052,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 88,
+      "predicted_loss": 0.6784,
+      "actual_loss": 0.8599,
+      "error": 0.1815,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 89,
+      "predicted_loss": 0.6655,
+      "actual_loss": 0.8188,
+      "error": 0.1533,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 90,
+      "predicted_loss": 0.64,
+      "actual_loss": 0.8734,
+      "error": 0.2334,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 91,
+      "predicted_loss": 0.6694,
+      "actual_loss": 0.7028,
+      "error": 0.0335,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 92,
+      "predicted_loss": 0.5676,
+      "actual_loss": 0.8636,
+      "error": 0.296,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 93,
+      "predicted_loss": 0.6475,
+      "actual_loss": 0.92,
+      "error": 0.2725,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 94,
+      "predicted_loss": 0.7053,
+      "actual_loss": 0.9805,
+      "error": 0.2752,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 95,
+      "predicted_loss": 0.7515,
+      "actual_loss": 0.9529,
+      "error": 0.2014,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 96,
+      "predicted_loss": 0.7421,
+      "actual_loss": 0.8831,
+      "error": 0.141,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 97,
+      "predicted_loss": 0.6937,
+      "actual_loss": 0.96,
+      "error": 0.2663,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 98,
+      "predicted_loss": 0.7335,
+      "actual_loss": 0.9381,
+      "error": 0.2046,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    }
+  ],
+  "route_5_to_9": [
+    {
+      "window": 121,
+      "predicted_loss": 0.069,
+      "actual_loss": 0.1046,
+      "error": 0.0356,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 122,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0435,
+      "error": 0.0435,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 123,
+      "predicted_loss": 0.0343,
+      "actual_loss": 0.0592,
+      "error": 0.0249,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 124,
+      "predicted_loss": 0.0036,
+      "actual_loss": 0.0,
+      "error": 0.0036,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 125,
+      "predicted_loss": 0.0258,
+      "actual_loss": 0.0196,
+      "error": 0.0062,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 126,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0051,
+      "error": 0.0051,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 127,
+      "predicted_loss": 0.0072,
+      "actual_loss": 0.0395,
+      "error": 0.0323,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 128,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0055,
+      "error": 0.0055,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 129,
+      "predicted_loss": 0.0158,
+      "actual_loss": 0.1111,
+      "error": 0.0954,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 130,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0,
+      "error": 0.0,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 131,
+      "predicted_loss": 0.0484,
+      "actual_loss": 0.0392,
+      "error": 0.0092,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 132,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0,
+      "error": 0.0,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 133,
+      "predicted_loss": 0.0171,
+      "actual_loss": 0.1447,
+      "error": 0.1277,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 134,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0093,
+      "error": 0.0093,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 135,
+      "predicted_loss": 0.0606,
+      "actual_loss": 0.085,
+      "error": 0.0243,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 136,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0076,
+      "error": 0.0076,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 137,
+      "predicted_loss": 0.035,
+      "actual_loss": 0.1429,
+      "error": 0.1078,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 138,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0235,
+      "error": 0.0235,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 139,
+      "predicted_loss": 0.0561,
+      "actual_loss": 0.1226,
+      "error": 0.0665,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 140,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0,
+      "error": 0.0,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 141,
+      "predicted_loss": 0.0534,
+      "actual_loss": 0.0738,
+      "error": 0.0204,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 142,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0506,
+      "error": 0.0506,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 143,
+      "predicted_loss": 0.019,
+      "actual_loss": 0.0765,
+      "error": 0.0575,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 144,
+      "predicted_loss": 0.0022,
+      "actual_loss": 0.0,
+      "error": 0.0022,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 145,
+      "predicted_loss": 0.0333,
+      "actual_loss": 0.224,
+      "error": 0.1907,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 146,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.008,
+      "error": 0.008,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 147,
+      "predicted_loss": 0.0955,
+      "actual_loss": 0.0763,
+      "error": 0.0192,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 148,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0,
+      "error": 0.0,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 149,
+      "predicted_loss": 0.0332,
+      "actual_loss": 0.2131,
+      "error": 0.1799,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 150,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0175,
+      "error": 0.0175,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 151,
+      "predicted_loss": 0.0883,
+      "actual_loss": 0.0383,
+      "error": 0.05,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 152,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0,
+      "error": 0.0,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 153,
+      "predicted_loss": 0.0167,
+      "actual_loss": 0.1639,
+      "error": 0.1473,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 154,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0112,
+      "error": 0.0112,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 155,
+      "predicted_loss": 0.0685,
+      "actual_loss": 0.0574,
+      "error": 0.0111,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 156,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0,
+      "error": 0.0,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 157,
+      "predicted_loss": 0.025,
+      "actual_loss": 0.1499,
+      "error": 0.1249,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 158,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0087,
+      "error": 0.0087,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 159,
+      "predicted_loss": 0.063,
+      "actual_loss": 0.2623,
+      "error": 0.1993,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 160,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0116,
+      "error": 0.0116,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 161,
+      "predicted_loss": 0.1112,
+      "actual_loss": 0.0,
+      "error": 0.1112,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 162,
+      "predicted_loss": 0.0051,
+      "actual_loss": 0.0104,
+      "error": 0.0054,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 163,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0628,
+      "error": 0.0628,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 164,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0588,
+      "error": 0.0588,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 165,
+      "predicted_loss": 0.0121,
+      "actual_loss": 0.0246,
+      "error": 0.0125,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 166,
+      "predicted_loss": 0.0192,
+      "actual_loss": 0.0154,
+      "error": 0.0039,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 167,
+      "predicted_loss": 0.0067,
+      "actual_loss": 0.0817,
+      "error": 0.075,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 168,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0094,
+      "error": 0.0094,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 169,
+      "predicted_loss": 0.0332,
+      "actual_loss": 0.2049,
+      "error": 0.1718,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 170,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0273,
+      "error": 0.0273,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 171,
+      "predicted_loss": 0.0822,
+      "actual_loss": 0.0437,
+      "error": 0.0385,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 172,
+      "predicted_loss": 0.0006,
+      "actual_loss": 0.0267,
+      "error": 0.0261,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 173,
+      "predicted_loss": 0.0121,
+      "actual_loss": 0.0765,
+      "error": 0.0644,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    }
+  ],
+  "route_2_to_9": [
+    {
+      "window": 69,
+      "predicted_loss": 0.4893,
+      "actual_loss": 0.848,
+      "error": 0.3587,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 70,
+      "predicted_loss": 0.6129,
+      "actual_loss": 0.8955,
+      "error": 0.2826,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 71,
+      "predicted_loss": 0.6559,
+      "actual_loss": 0.8538,
+      "error": 0.1979,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 72,
+      "predicted_loss": 0.6315,
+      "actual_loss": 0.8815,
+      "error": 0.25,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 73,
+      "predicted_loss": 0.647,
+      "actual_loss": 0.8889,
+      "error": 0.2419,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 74,
+      "predicted_loss": 0.6539,
+      "actual_loss": 0.2015,
+      "error": 0.4524,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 75,
+      "predicted_loss": 0.1965,
+      "actual_loss": 0.4854,
+      "error": 0.2889,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 76,
+      "predicted_loss": 0.3374,
+      "actual_loss": 0.7761,
+      "error": 0.4387,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 77,
+      "predicted_loss": 0.551,
+      "actual_loss": 0.3801,
+      "error": 0.1709,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 78,
+      "predicted_loss": 0.3076,
+      "actual_loss": 0.4925,
+      "error": 0.185,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 79,
+      "predicted_loss": 0.3547,
+      "actual_loss": 0.4094,
+      "error": 0.0546,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 80,
+      "predicted_loss": 0.3072,
+      "actual_loss": 0.9564,
+      "error": 0.6492,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 81,
+      "predicted_loss": 0.6658,
+      "actual_loss": 0.8248,
+      "error": 0.1591,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 82,
+      "predicted_loss": 0.6164,
+      "actual_loss": 0.9876,
+      "error": 0.3711,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 83,
+      "predicted_loss": 0.7156,
+      "actual_loss": 0.9951,
+      "error": 0.2795,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 84,
+      "predicted_loss": 0.7321,
+      "actual_loss": 0.9348,
+      "error": 0.2027,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 85,
+      "predicted_loss": 0.6924,
+      "actual_loss": 0.9902,
+      "error": 0.2978,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 86,
+      "predicted_loss": 0.7251,
+      "actual_loss": 0.9752,
+      "error": 0.2501,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 87,
+      "predicted_loss": 0.719,
+      "actual_loss": 0.9171,
+      "error": 0.1981,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 88,
+      "predicted_loss": 0.6792,
+      "actual_loss": 0.8043,
+      "error": 0.1251,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 89,
+      "predicted_loss": 0.6,
+      "actual_loss": 0.9512,
+      "error": 0.3512,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 90,
+      "predicted_loss": 0.69,
+      "actual_loss": 1.0,
+      "error": 0.31,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 91,
+      "predicted_loss": 0.7328,
+      "actual_loss": 0.9366,
+      "error": 0.2038,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 92,
+      "predicted_loss": 0.6939,
+      "actual_loss": 0.9969,
+      "error": 0.303,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 93,
+      "predicted_loss": 0.7297,
+      "actual_loss": 0.9829,
+      "error": 0.2533,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 94,
+      "predicted_loss": 0.7246,
+      "actual_loss": 0.8696,
+      "error": 0.145,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 95,
+      "predicted_loss": 0.6481,
+      "actual_loss": 0.8832,
+      "error": 0.2351,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 96,
+      "predicted_loss": 0.6492,
+      "actual_loss": 0.972,
+      "error": 0.3228,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 97,
+      "predicted_loss": 0.7094,
+      "actual_loss": 1.0,
+      "error": 0.2906,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 98,
+      "predicted_loss": 0.7342,
+      "actual_loss": 0.9348,
+      "error": 0.2006,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    }
+  ],
+  "route_8_to_9": [
+    {
+      "window": 119,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0111,
+      "error": 0.0111,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 120,
+      "predicted_loss": 0.0618,
+      "actual_loss": 0.1866,
+      "error": 0.1247,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 121,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0,
+      "error": 0.0,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 122,
+      "predicted_loss": 0.0875,
+      "actual_loss": 0.0526,
+      "error": 0.0349,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 123,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0145,
+      "error": 0.0145,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 124,
+      "predicted_loss": 0.0195,
+      "actual_loss": 0.0896,
+      "error": 0.0701,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 125,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0156,
+      "error": 0.0156,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 126,
+      "predicted_loss": 0.0364,
+      "actual_loss": 0.117,
+      "error": 0.0806,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 127,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0517,
+      "error": 0.0517,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 128,
+      "predicted_loss": 0.0363,
+      "actual_loss": 0.0746,
+      "error": 0.0384,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 129,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0,
+      "error": 0.0,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 130,
+      "predicted_loss": 0.035,
+      "actual_loss": 0.1228,
+      "error": 0.0878,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 131,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0,
+      "error": 0.0,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 132,
+      "predicted_loss": 0.0576,
+      "actual_loss": 0.1119,
+      "error": 0.0543,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 133,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0423,
+      "error": 0.0423,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 134,
+      "predicted_loss": 0.0373,
+      "actual_loss": 0.2024,
+      "error": 0.1651,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 135,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0,
+      "error": 0.0,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 136,
+      "predicted_loss": 0.0949,
+      "actual_loss": 0.1517,
+      "error": 0.0568,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 137,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0571,
+      "error": 0.0571,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 138,
+      "predicted_loss": 0.0506,
+      "actual_loss": 0.2902,
+      "error": 0.2396,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 139,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0577,
+      "error": 0.0577,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 140,
+      "predicted_loss": 0.1154,
+      "actual_loss": 0.1211,
+      "error": 0.0057,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 141,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0,
+      "error": 0.0,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 142,
+      "predicted_loss": 0.0568,
+      "actual_loss": 0.1902,
+      "error": 0.1334,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 143,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0571,
+      "error": 0.0571,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 144,
+      "predicted_loss": 0.0687,
+      "actual_loss": 0.2601,
+      "error": 0.1914,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 145,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0444,
+      "error": 0.0444,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 146,
+      "predicted_loss": 0.106,
+      "actual_loss": 0.1512,
+      "error": 0.0452,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 147,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0476,
+      "error": 0.0476,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 148,
+      "predicted_loss": 0.0538,
+      "actual_loss": 0.2081,
+      "error": 0.1543,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 149,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0484,
+      "error": 0.0484,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 150,
+      "predicted_loss": 0.0802,
+      "actual_loss": 0.3366,
+      "error": 0.2564,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 151,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.2,
+      "error": 0.2,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 152,
+      "predicted_loss": 0.086,
+      "actual_loss": 0.2764,
+      "error": 0.1904,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 153,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0233,
+      "error": 0.0233,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 154,
+      "predicted_loss": 0.1213,
+      "actual_loss": 0.3212,
+      "error": 0.1999,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 155,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0294,
+      "error": 0.0294,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 156,
+      "predicted_loss": 0.14,
+      "actual_loss": 0.1491,
+      "error": 0.009,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 157,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0408,
+      "error": 0.0408,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 158,
+      "predicted_loss": 0.0552,
+      "actual_loss": 0.2805,
+      "error": 0.2253,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 159,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0625,
+      "error": 0.0625,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 160,
+      "predicted_loss": 0.1091,
+      "actual_loss": 0.2236,
+      "error": 0.1145,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 161,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.2667,
+      "error": 0.2667,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 162,
+      "predicted_loss": 0.009,
+      "actual_loss": 0.3854,
+      "error": 0.3764,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 163,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0,
+      "error": 0.0,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 164,
+      "predicted_loss": 0.1807,
+      "actual_loss": 0.0,
+      "error": 0.1807,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 165,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0,
+      "error": 0.0,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 166,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.3634,
+      "error": 0.3634,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 167,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0769,
+      "error": 0.0769,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 168,
+      "predicted_loss": 0.1428,
+      "actual_loss": 0.2236,
+      "error": 0.0808,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 169,
+      "predicted_loss": 0.0,
+      "actual_loss": 0.0606,
+      "error": 0.0606,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 170,
+      "predicted_loss": 0.0831,
+      "actual_loss": 0.3927,
+      "error": 0.3096,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    }
+  ],
+  "route_3_to_9": [
+    {
+      "window": 69,
+      "predicted_loss": 0.6054,
+      "actual_loss": 0.9091,
+      "error": 0.3037,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 70,
+      "predicted_loss": 0.6985,
+      "actual_loss": 0.9714,
+      "error": 0.2729,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 71,
+      "predicted_loss": 0.7502,
+      "actual_loss": 0.7212,
+      "error": 0.029,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 72,
+      "predicted_loss": 0.5809,
+      "actual_loss": 0.9858,
+      "error": 0.4049,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 73,
+      "predicted_loss": 0.7451,
+      "actual_loss": 0.9695,
+      "error": 0.2245,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 74,
+      "predicted_loss": 0.7551,
+      "actual_loss": 0.5532,
+      "error": 0.2019,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 75,
+      "predicted_loss": 0.4637,
+      "actual_loss": 0.6485,
+      "error": 0.1848,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 76,
+      "predicted_loss": 0.4965,
+      "actual_loss": 0.9214,
+      "error": 0.425,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 77,
+      "predicted_loss": 0.6943,
+      "actual_loss": 0.7152,
+      "error": 0.0208,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 78,
+      "predicted_loss": 0.5727,
+      "actual_loss": 0.5786,
+      "error": 0.0059,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 79,
+      "predicted_loss": 0.4608,
+      "actual_loss": 0.4,
+      "error": 0.0608,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 80,
+      "predicted_loss": 0.3254,
+      "actual_loss": 0.9552,
+      "error": 0.6298,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 81,
+      "predicted_loss": 0.6978,
+      "actual_loss": 0.947,
+      "error": 0.2492,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 82,
+      "predicted_loss": 0.7369,
+      "actual_loss": 1.0,
+      "error": 0.2631,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 83,
+      "predicted_loss": 0.7732,
+      "actual_loss": 0.9975,
+      "error": 0.2243,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 84,
+      "predicted_loss": 0.7757,
+      "actual_loss": 0.9881,
+      "error": 0.2124,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 85,
+      "predicted_loss": 0.769,
+      "actual_loss": 0.9722,
+      "error": 0.2032,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 86,
+      "predicted_loss": 0.7571,
+      "actual_loss": 0.9881,
+      "error": 0.231,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 87,
+      "predicted_loss": 0.7669,
+      "actual_loss": 0.9519,
+      "error": 0.185,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 88,
+      "predicted_loss": 0.743,
+      "actual_loss": 0.9941,
+      "error": 0.2511,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 89,
+      "predicted_loss": 0.7694,
+      "actual_loss": 0.9949,
+      "error": 0.2255,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 90,
+      "predicted_loss": 0.7735,
+      "actual_loss": 1.0,
+      "error": 0.2265,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 91,
+      "predicted_loss": 0.7771,
+      "actual_loss": 0.9975,
+      "error": 0.2204,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 92,
+      "predicted_loss": 0.7757,
+      "actual_loss": 0.9377,
+      "error": 0.162,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 93,
+      "predicted_loss": 0.7338,
+      "actual_loss": 1.0,
+      "error": 0.2662,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 94,
+      "predicted_loss": 0.7724,
+      "actual_loss": 0.9732,
+      "error": 0.2008,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 95,
+      "predicted_loss": 0.7588,
+      "actual_loss": 0.9899,
+      "error": 0.2311,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 96,
+      "predicted_loss": 0.7683,
+      "actual_loss": 0.9703,
+      "error": 0.2021,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 97,
+      "predicted_loss": 0.756,
+      "actual_loss": 0.8861,
+      "error": 0.1301,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 98,
+      "predicted_loss": 0.6957,
+      "actual_loss": 1.0,
+      "error": 0.3043,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    }
+  ],
+  "route_4_to_9": [
+    {
+      "window": 69,
+      "predicted_loss": 0.1399,
+      "actual_loss": 0.1698,
+      "error": 0.0299,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 70,
+      "predicted_loss": 0.1353,
+      "actual_loss": 0.274,
+      "error": 0.1387,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 71,
+      "predicted_loss": 0.136,
+      "actual_loss": 0.1698,
+      "error": 0.0338,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 72,
+      "predicted_loss": 0.1452,
+      "actual_loss": 0.2925,
+      "error": 0.1473,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 73,
+      "predicted_loss": 0.1411,
+      "actual_loss": 0.2025,
+      "error": 0.0615,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 74,
+      "predicted_loss": 0.1608,
+      "actual_loss": 0.2041,
+      "error": 0.0433,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 75,
+      "predicted_loss": 0.1287,
+      "actual_loss": 0.1646,
+      "error": 0.0358,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 76,
+      "predicted_loss": 0.1185,
+      "actual_loss": 0.1905,
+      "error": 0.072,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 77,
+      "predicted_loss": 0.1113,
+      "actual_loss": 0.1509,
+      "error": 0.0396,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 78,
+      "predicted_loss": 0.1099,
+      "actual_loss": 0.2123,
+      "error": 0.1024,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 79,
+      "predicted_loss": 0.1124,
+      "actual_loss": 0.1509,
+      "error": 0.0386,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 80,
+      "predicted_loss": 0.1178,
+      "actual_loss": 0.4743,
+      "error": 0.3565,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 81,
+      "predicted_loss": 0.1838,
+      "actual_loss": 0.3123,
+      "error": 0.1285,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 82,
+      "predicted_loss": 0.2563,
+      "actual_loss": 0.3153,
+      "error": 0.059,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 83,
+      "predicted_loss": 0.1987,
+      "actual_loss": 0.3596,
+      "error": 0.1609,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 84,
+      "predicted_loss": 0.2119,
+      "actual_loss": 0.51,
+      "error": 0.2981,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 85,
+      "predicted_loss": 0.2688,
+      "actual_loss": 0.5144,
+      "error": 0.2456,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 86,
+      "predicted_loss": 0.3243,
+      "actual_loss": 0.5398,
+      "error": 0.2154,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 87,
+      "predicted_loss": 0.3328,
+      "actual_loss": 0.2388,
+      "error": 0.094,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 88,
+      "predicted_loss": 0.2599,
+      "actual_loss": 0.5043,
+      "error": 0.2444,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 89,
+      "predicted_loss": 0.2237,
+      "actual_loss": 0.273,
+      "error": 0.0492,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 90,
+      "predicted_loss": 0.2564,
+      "actual_loss": 0.7017,
+      "error": 0.4453,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 91,
+      "predicted_loss": 0.2899,
+      "actual_loss": 0.5421,
+      "error": 0.2522,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 92,
+      "predicted_loss": 0.4011,
+      "actual_loss": 0.4858,
+      "error": 0.0847,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 93,
+      "predicted_loss": 0.3281,
+      "actual_loss": 0.4042,
+      "error": 0.0761,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 94,
+      "predicted_loss": 0.2855,
+      "actual_loss": 0.2849,
+      "error": 0.0006,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 95,
+      "predicted_loss": 0.2236,
+      "actual_loss": 0.4436,
+      "error": 0.22,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 96,
+      "predicted_loss": 0.2238,
+      "actual_loss": 0.3125,
+      "error": 0.0887,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 97,
+      "predicted_loss": 0.2453,
+      "actual_loss": 0.3018,
+      "error": 0.0566,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 98,
+      "predicted_loss": 0.1951,
+      "actual_loss": 0.6353,
+      "error": 0.4402,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    }
+  ],
+  "route_6_to_9": [
+    {
+      "window": 69,
+      "predicted_loss": 0.1858,
+      "actual_loss": 0.2245,
+      "error": 0.0387,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 70,
+      "predicted_loss": 0.1791,
+      "actual_loss": 0.4747,
+      "error": 0.2956,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 71,
+      "predicted_loss": 0.2169,
+      "actual_loss": 0.4354,
+      "error": 0.2185,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 72,
+      "predicted_loss": 0.3065,
+      "actual_loss": 0.2327,
+      "error": 0.0738,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 73,
+      "predicted_loss": 0.2365,
+      "actual_loss": 0.4041,
+      "error": 0.1676,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 74,
+      "predicted_loss": 0.2013,
+      "actual_loss": 0.1572,
+      "error": 0.044,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 75,
+      "predicted_loss": 0.2038,
+      "actual_loss": 0.2123,
+      "error": 0.0085,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 76,
+      "predicted_loss": 0.1198,
+      "actual_loss": 0.478,
+      "error": 0.3582,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 77,
+      "predicted_loss": 0.2129,
+      "actual_loss": 0.226,
+      "error": 0.0131,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 78,
+      "predicted_loss": 0.2518,
+      "actual_loss": 0.0126,
+      "error": 0.2392,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 79,
+      "predicted_loss": 0.0938,
+      "actual_loss": 0.1905,
+      "error": 0.0967,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 80,
+      "predicted_loss": 0.056,
+      "actual_loss": 0.6402,
+      "error": 0.5842,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 81,
+      "predicted_loss": 0.2476,
+      "actual_loss": 0.7869,
+      "error": 0.5394,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 82,
+      "predicted_loss": 0.4668,
+      "actual_loss": 0.6063,
+      "error": 0.1395,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 83,
+      "predicted_loss": 0.4772,
+      "actual_loss": 0.5954,
+      "error": 0.1182,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 84,
+      "predicted_loss": 0.402,
+      "actual_loss": 0.8583,
+      "error": 0.4563,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 85,
+      "predicted_loss": 0.468,
+      "actual_loss": 0.4119,
+      "error": 0.0561,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 86,
+      "predicted_loss": 0.4537,
+      "actual_loss": 0.853,
+      "error": 0.3993,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 87,
+      "predicted_loss": 0.3931,
+      "actual_loss": 0.6296,
+      "error": 0.2365,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 88,
+      "predicted_loss": 0.5099,
+      "actual_loss": 0.6798,
+      "error": 0.1699,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 89,
+      "predicted_loss": 0.4339,
+      "actual_loss": 0.6761,
+      "error": 0.2422,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 90,
+      "predicted_loss": 0.453,
+      "actual_loss": 0.6037,
+      "error": 0.1507,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 91,
+      "predicted_loss": 0.4322,
+      "actual_loss": 0.6866,
+      "error": 0.2545,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 92,
+      "predicted_loss": 0.4254,
+      "actual_loss": 0.6745,
+      "error": 0.2492,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 93,
+      "predicted_loss": 0.4553,
+      "actual_loss": 0.392,
+      "error": 0.0633,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 94,
+      "predicted_loss": 0.3749,
+      "actual_loss": 0.5053,
+      "error": 0.1304,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 95,
+      "predicted_loss": 0.2921,
+      "actual_loss": 0.4489,
+      "error": 0.1567,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 96,
+      "predicted_loss": 0.3223,
+      "actual_loss": 0.6194,
+      "error": 0.2971,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 97,
+      "predicted_loss": 0.3454,
+      "actual_loss": 0.6097,
+      "error": 0.2643,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 98,
+      "predicted_loss": 0.4111,
+      "actual_loss": 0.6089,
+      "error": 0.1979,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    }
+  ],
+  "route_7_to_9": [
+    {
+      "window": 69,
+      "predicted_loss": 0.4259,
+      "actual_loss": 0.5248,
+      "error": 0.0989,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 70,
+      "predicted_loss": 0.3658,
+      "actual_loss": 0.6402,
+      "error": 0.2745,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 71,
+      "predicted_loss": 0.439,
+      "actual_loss": 0.2553,
+      "error": 0.1836,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 72,
+      "predicted_loss": 0.1891,
+      "actual_loss": 0.6364,
+      "error": 0.4472,
+      "status": "Normal",
+      "action": "Normal operation",
+      "colour": "#22c55e"
+    },
+    {
+      "window": 73,
+      "predicted_loss": 0.4276,
+      "actual_loss": 0.4714,
+      "error": 0.0438,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 74,
+      "predicted_loss": 0.3314,
+      "actual_loss": 0.6364,
+      "error": 0.305,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 75,
+      "predicted_loss": 0.4347,
+      "actual_loss": 0.4357,
+      "error": 0.0011,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 76,
+      "predicted_loss": 0.3079,
+      "actual_loss": 0.5576,
+      "error": 0.2497,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 77,
+      "predicted_loss": 0.3816,
+      "actual_loss": 0.3571,
+      "error": 0.0244,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 78,
+      "predicted_loss": 0.2535,
+      "actual_loss": 0.4,
+      "error": 0.1465,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 79,
+      "predicted_loss": 0.2752,
+      "actual_loss": 0.5461,
+      "error": 0.2709,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 80,
+      "predicted_loss": 0.3729,
+      "actual_loss": 0.9389,
+      "error": 0.5661,
+      "status": "Watch",
+      "action": "Monitor \u2014 mild increase",
+      "colour": "#eab308"
+    },
+    {
+      "window": 81,
+      "predicted_loss": 0.6364,
+      "actual_loss": 0.9644,
+      "error": 0.3279,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 82,
+      "predicted_loss": 0.6661,
+      "actual_loss": 0.9798,
+      "error": 0.3137,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 83,
+      "predicted_loss": 0.677,
+      "actual_loss": 0.9733,
+      "error": 0.2963,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 84,
+      "predicted_loss": 0.6733,
+      "actual_loss": 0.9747,
+      "error": 0.3014,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 85,
+      "predicted_loss": 0.674,
+      "actual_loss": 0.9436,
+      "error": 0.2697,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 86,
+      "predicted_loss": 0.6535,
+      "actual_loss": 0.9343,
+      "error": 0.2808,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 87,
+      "predicted_loss": 0.6464,
+      "actual_loss": 0.9436,
+      "error": 0.2972,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 88,
+      "predicted_loss": 0.6522,
+      "actual_loss": 0.8608,
+      "error": 0.2085,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 89,
+      "predicted_loss": 0.5979,
+      "actual_loss": 0.9614,
+      "error": 0.3635,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 90,
+      "predicted_loss": 0.6615,
+      "actual_loss": 0.8535,
+      "error": 0.192,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 91,
+      "predicted_loss": 0.5938,
+      "actual_loss": 0.8512,
+      "error": 0.2574,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 92,
+      "predicted_loss": 0.5887,
+      "actual_loss": 0.9646,
+      "error": 0.376,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 93,
+      "predicted_loss": 0.6634,
+      "actual_loss": 0.9466,
+      "error": 0.2832,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 94,
+      "predicted_loss": 0.6552,
+      "actual_loss": 0.919,
+      "error": 0.2638,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 95,
+      "predicted_loss": 0.6364,
+      "actual_loss": 0.8309,
+      "error": 0.1945,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 96,
+      "predicted_loss": 0.5774,
+      "actual_loss": 0.9596,
+      "error": 0.3822,
+      "status": "Caution",
+      "action": "Increase retransmissions",
+      "colour": "#f97316"
+    },
+    {
+      "window": 97,
+      "predicted_loss": 0.6594,
+      "actual_loss": 0.9614,
+      "error": 0.3021,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    },
+    {
+      "window": 98,
+      "predicted_loss": 0.6648,
+      "actual_loss": 0.8405,
+      "error": 0.1757,
+      "status": "High",
+      "action": "Reduce transmission rate",
+      "colour": "#ef4444"
+    }
+  ]
+}
